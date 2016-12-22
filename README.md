@@ -1,3 +1,4 @@
 # hello-world
-just trying out how github works
+just trying github at my own pace
+
  now lets see how this goes.. for the time being practicing how to branch,,, lets see
